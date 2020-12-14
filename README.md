@@ -1,5 +1,3 @@
-##Instalar
-
 Instalar
  - composer install
  - npm install
